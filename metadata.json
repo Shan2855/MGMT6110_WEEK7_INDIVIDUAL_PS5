@@ -1,0 +1,6 @@
+{
+  "name": "Human-AI Task Matrix",
+  "description": "Interactive 2x2 framework segregating tasks by right-answer certainty and collaborative interdependence, featuring live email prioritization, multi-channel notification triage, news summarization, and automated property data translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
